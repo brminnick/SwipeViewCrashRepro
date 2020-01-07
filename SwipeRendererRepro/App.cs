@@ -47,11 +47,8 @@ namespace SwipeRendererRepro
                 RightItems = { swipeItemWithNoText },
                 Content = label
             };
-
-            Content = new ScrollView
-            {
-                Content = swipeView
-            };
+            
+            Content = swipeView;
         }
     }
 }
