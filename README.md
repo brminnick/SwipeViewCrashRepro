@@ -1,5 +1,5 @@
 # SwipeViewCrashRepro
-A reproduction sample of Xamarin.Forms.iOS.SwipeViewRenderer NullReferenceException: `UIStringDrawing.StringSize (System.String This, UIKit.UIFont font) SIGABRT: Object reference not set to an instance of an object`
+A reproduction sample of Xamarin.Forms.Platform.iOS.SwipeViewRenderer NullReferenceException: `UIStringDrawing.StringSize (System.String This, UIKit.UIFont font) SIGABRT: Object reference not set to an instance of an object`
 
 ```
 System.NullReferenceException: Object reference not set to an instance of an object
