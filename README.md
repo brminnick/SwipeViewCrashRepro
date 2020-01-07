@@ -20,7 +20,7 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 
 ## Reproduction Steps
 
-1. Download/close this repo
+1. Download/clone this repo
 2. In Visual Studio, open `SwipeRendererRepro.sln`
 3. In Visual Studio, build/deploy `SwipeRendererRepro.iOS` to an iOS Simulator or Device
 4. On the iOS app, on the yellow `Label`, swipe left-to-right
