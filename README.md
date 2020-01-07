@@ -29,6 +29,8 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 7. On the iOS app, on the yellow `Label`, swipe right-to-left
 8. Confrim the app crashes
 
+![](https://user-images.githubusercontent.com/13558917/71869535-41df4d80-30c7-11ea-9beb-6db5627e114d.gif)
+
 ## Environment
 
 === Visual Studio Enterprise 2019 for Mac ===
